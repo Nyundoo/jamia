@@ -3698,11 +3698,11 @@ html[data-useragent*='MSIE 10.0'] body.btMenuHorizontal .menuPort ul > li:hover 
     }
 .btDarkSkin .btSiteFooterWidgets,
 .btLightSkin .btDarkSkin .btSiteFooterWidgets {
-    background: #1d1f27;
+    background: #00a650;
     }
 .btDarkSkin .btSiteFooter,
 .btLightSkin .btDarkSkin .btSiteFooter {
-    background: rgba(255,255,255,.075);
+    background: #fff200;
     }
 .btFooterWrap.btDarkSkin .btBox h4 .headline a:hover,
 .btFooterWrap.btLightSkin .btBox h4 .headline a:hover {
