@@ -1,10 +1,10 @@
 @font-face {
     font-family: 'wws-fonts';
-    src:  url('../fonts/wws-fonts.eot?oc4zcx');
-    src:  url('../fonts/wws-fonts.eot?oc4zcx#iefix') format('embedded-opentype'),
-      url('../fonts/wws-fonts.ttf?oc4zcx') format('truetype'),
-      url('../fonts/wws-fonts.woff?oc4zcx') format('woff'),
-      url('../fonts/wws-fonts.svg?oc4zcx#wws-fonts') format('svg');
+    src:  url('https://jamiahealthcentre.com/fonts/wws-fonts.eot?oc4zcx');
+    src:  url('https://jamiahealthcentre.com/fonts/wws-fonts.eot?oc4zcx#iefix') format('embedded-opentype'),
+      url('https://jamiahealthcentre.com/fonts/wws-fonts.ttf?oc4zcx') format('truetype'),
+      url('https://jamiahealthcentre.com/fonts/wws-fonts.woff?oc4zcx') format('woff'),
+      url('https://jamiahealthcentre.com/fonts/wws-fonts.svg?oc4zcx#wws-fonts') format('svg');
     font-weight: normal;
     font-style: normal;
     font-display: block;
