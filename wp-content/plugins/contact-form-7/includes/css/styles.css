@@ -109,3 +109,10 @@ div.wpcf7 .wpcf7-submit:disabled {
 .wpcf7 input[type="tel"] {
 	direction: ltr;
 }
+/* .art {
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-attachment: fixed;
+	background-position: left top;
+	background-image: url('bg.jpg');
+	} */

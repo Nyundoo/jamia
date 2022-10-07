@@ -1273,10 +1273,10 @@ h6 {
     }
 
 /* Skin */
-.btDarkSkin,
+/* .btDarkSkin,
 .btLightSkin .btDarkSkin {
     background-color: #1d1f27;
-    }
+    } */
 .btLightSkin,
 .btDarkSkin .btLightSkin {
     color: #444;
@@ -3686,10 +3686,7 @@ html[data-useragent*='MSIE 10.0'] body.btMenuHorizontal .menuPort ul > li:hover 
 .btSiteFooterWidgets .widget_bt_text_image .btImage img {
     margin: 0;
     }
-.btLightSkin .btSiteFooterWidgets,
-.btDarkSkin .btLightSkin .btSiteFooterWidgets {
-    background: #00a650;
-    }
+
 .btLightSkin .btSiteFooter,
 .btDarkSkin .btLightSkin .btSiteFooter {
     background: #fff;
